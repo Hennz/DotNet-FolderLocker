@@ -1,0 +1,16 @@
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\bin\Debug\Folder.exe.manifest
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\bin\Debug\Folder.application
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\bin\Debug\Folder.exe
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\bin\Debug\Folder.pdb
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\Folder.exe.manifest
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\Folder.application
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\Folder.exe
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\Folder.pdb
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\文件夹加锁工具精美版.LockFolderPwd.resources
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\文件夹加锁工具精美版.MainForm.resources
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\文件夹加锁工具精美版.Properties.Resources.resources
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\文件夹加锁工具精美版.UnLockFolder.resources
+D:\Users\范例文档\Visual Studio\C#\Folder\Folder\obj\x86\Debug\文件夹加锁工具精美版.SetMainPwd.resources
